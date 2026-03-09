@@ -55,7 +55,7 @@ I'm Ayush Sahu, a third-year Computer Science student specializing in Data Scien
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,cloudflare&theme=light" />
   </a>
 </p>
 
