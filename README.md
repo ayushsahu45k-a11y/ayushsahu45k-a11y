@@ -74,7 +74,24 @@ I'm Ayush Sahu, a third-year Computer Science student specializing in Data Scien
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsahu45ka11y&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ayushsahu45k-a11y/&layout=compact&theme=tokyonight)
+**Languages**
+- Python
+- SQL
+- R
+
+**Libraries & Frameworks**
+- Pandas
+- NumPy
+- Scikit-learn
+- TensorFlow
+- Matplotlib
+- Seaborn
+
+**Tools**
+- Jupyter Notebook
+- Git & GitHub
+- Tableau / Power BI
+- Excel
 ---
 
 ## 🏆 Top Contributed Repo
