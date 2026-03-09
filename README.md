@@ -15,13 +15,13 @@ I'm Ayush Sahu, a third-year Computer Science student specializing in Data Scien
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:aminehamzaoui1926@gmail.com">
+  <a href="mailto:ayushsahu.45k@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ayush-sahu-08277330b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
+  <a href="https://www.instagram.com/https://www.instagram.com/ayushsahu__45?igsh=MW8xMWcwdG5uN294cQ==">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
   <a href="https://www.facebook.com/share/1EZqQrtBKf/">
@@ -33,11 +33,11 @@ I'm Ayush Sahu, a third-year Computer Science student specializing in Data Scien
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saboo24">
-    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
+  <a href="https://github.com/ayushsahu45k-a11y">
+    <!-- <img src="https://komarev.com/ghpvc/?username=ayushsahu45k-a11y&color=3a8296&label=Profile%20Views" /> -->
   </a>
-  <a href="https://github.com/Saboo24">
-    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+  <a href="https://github.com/ayushsahu45k-a11y">
+    <!-- <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" /> -->
   </a>
 </p>
 
@@ -46,7 +46,7 @@ I'm Ayush Sahu, a third-year Computer Science student specializing in Data Scien
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=Python,mysql,machine learning, deep learning , power bi&theme=light" />
   </a>
 </p>
 
