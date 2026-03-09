@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Ayush%20Sahu&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
 I'm Ayush Sahu, a third-year Computer Science student specializing in Data Science, passionate about analyzing data, building intelligent models, and pursuing a career as a Data Scientist.
+
 💡 *“Crafting logic and elegance in every line of code.”*
 
 ---
