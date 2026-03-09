@@ -46,7 +46,7 @@ I'm Ayush Sahu, a third-year Computer Science student specializing in Data Scien
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Python,mysql,machine learning, deep learning , power bi&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,ai,fastapi,sklearn,tensorflow,&theme=light" />
   </a>
 </p>
 
