@@ -4,7 +4,7 @@ I'm Ayush Sahu, a third-year Computer Science student specializing in Data Scien
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
-My Portfolio -> https://myportfolio-10.vercel.app/
+Building Intelligence with Data → See My Work → https://myportfolio-10.vercel.app/
 
 ---
 
